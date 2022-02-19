@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visylvius&layout=compact)](https://github.com/visylvius/github-readme-stats)
+
+![Lorens's github stats](https://github-readme-stats.vercel.app/api?username=visylvius&show_icons=true&theme=dark)
 <!--
 **Visylvius/Visylvius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
