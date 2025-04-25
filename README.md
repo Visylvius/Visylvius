@@ -2,7 +2,7 @@ Software engineer with proven ability to collaborate across multiple organizatio
 
 👀 View my portfolio here: [Portfolio](https://visylvius.github.io/portfolio-site/)
 
-📝 Check my resume out here: [Loren's Resume]([https://docs.google.com/document/d/1sXGXIeHfpuJxBeTjZtL5KuLomfyg5fyWHmoXEV8JfWc/edit?usp=sharing](https://docs.google.com/document/d/1g2fXQz-Zb3fmPUxO70tycrO7BkOB8Cj-HGcNfFBsY6Y/edit?usp=sharing))
+📝 Check my resume out here: [Loren's Resume](https://docs.google.com/document/d/1g2fXQz-Zb3fmPUxO70tycrO7BkOB8Cj-HGcNfFBsY6Y/edit?usp=sharing)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/lorenbarrick/)
 
