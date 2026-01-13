@@ -10,7 +10,6 @@ Software engineer with proven ability to collaborate across multiple organizatio
 
 📲 Call Me here: ‪(510) 519-4186‬
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visylvius&layout=compact)](https://github.com/visylvius/github-readme-stats)
 <!--
 **Visylvius/Visylvius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
